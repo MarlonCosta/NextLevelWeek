@@ -4994,6 +4994,10 @@ node_modules/posix-character-classes/index.js
 node_modules/posix-character-classes/LICENSE
 node_modules/posix-character-classes/package.json
 node_modules/posix-character-classes/README.md
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/NLW/v16/.suo
 node_modules/.bin/detect-libc
 node_modules/.bin/detect-libc.cmd
 node_modules/.bin/detect-libc.ps1
@@ -5675,5 +5679,4 @@ node_modules/yallist/LICENSE
 node_modules/yallist/package.json
 node_modules/yallist/README.md
 node_modules/yallist/yallist.js
-node_modules/sqlite/package.json
 node_modules/sqlite/package.json
