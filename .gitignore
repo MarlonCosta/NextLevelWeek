@@ -5019,6 +5019,13 @@ node_modules/.bin/rimraf.ps1
 node_modules/.bin/semver
 node_modules/.bin/semver.cmd
 node_modules/.bin/semver.ps1
+node_modules/sqlite/package.json
+node_modules/sqlite/package.json
+node_modules/sqlite/package.json
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/NLW/v16/.suo
 node_modules/abbrev/abbrev.js
 node_modules/abbrev/LICENSE
 node_modules/abbrev/package.json
@@ -5484,6 +5491,7 @@ node_modules/signal-exit/LICENSE.txt
 node_modules/signal-exit/package.json
 node_modules/signal-exit/README.md
 node_modules/signal-exit/signals.js
+node_modules/sqlite/package.json
 node_modules/sqlite3/.dockerignore
 node_modules/sqlite3/binding.gyp
 node_modules/sqlite3/CHANGELOG.md
@@ -5671,3 +5679,4 @@ node_modules/yallist/LICENSE
 node_modules/yallist/package.json
 node_modules/yallist/README.md
 node_modules/yallist/yallist.js
+node_modules/sqlite/package.json
